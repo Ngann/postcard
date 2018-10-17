@@ -1,0 +1,30 @@
+.container {
+  margin-top: 30px;
+  /* border: 2px solid blue;
+  background-color: yellow; */
+}
+
+h1  {
+  text-align: center;
+  font-weight: lighter;
+  font-stretch: ultra-expanded;
+}
+.row {
+  margin-top: 30px;
+  border: 20px;
+  border-style: solid;
+  border-color: #f0efef;
+  padding: 60px ;
+  background-color: #ddeedd;
+}
+
+.col-md-6 {
+  border:1px solid grey;
+  padding:120px;
+  background-color: #c2d4dd;
+}
+
+#rightLine {
+  border-left:1px solid red;
+  background-color: #b0aac0;
+}
