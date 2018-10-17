@@ -28,3 +28,11 @@ h1  {
   border-left:1px solid red;
   background-color: #b0aac0;
 }
+
+#formOne {
+  margin: 20px;
+}
+
+#story {
+  display: none;
+}
